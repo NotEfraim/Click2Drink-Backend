@@ -1,0 +1,198 @@
+[15-Nov-2021 07:53:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:53:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/maintenance_mode.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/maintenance_mode.php on line 9
+[15-Nov-2021 07:53:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:53:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/viewAllProducts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/viewAllProducts.php on line 9
+[15-Nov-2021 07:53:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:53:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:53:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/item_counter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/item_counter.php on line 13
+[15-Nov-2021 07:53:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:53:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/getPromoDeals.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/getPromoDeals.php on line 9
+[15-Nov-2021 07:53:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:53:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/getPartners.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/getPartners.php on line 10
+[15-Nov-2021 07:53:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:53:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/item_counter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/item_counter.php on line 13
+[15-Nov-2021 07:53:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/maintenance_mode.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/maintenance_mode.php on line 9
+[15-Nov-2021 07:54:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/viewAllProducts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/viewAllProducts.php on line 9
+[15-Nov-2021 07:54:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/item_counter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/item_counter.php on line 13
+[15-Nov-2021 07:54:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/getPromoDeals.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/getPromoDeals.php on line 9
+[15-Nov-2021 07:54:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/getPartners.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/getPartners.php on line 10
+[15-Nov-2021 07:54:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/item_counter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/item_counter.php on line 13
+[15-Nov-2021 07:54:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/maintenance_mode.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/maintenance_mode.php on line 9
+[15-Nov-2021 07:54:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/viewAllProducts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/viewAllProducts.php on line 9
+[15-Nov-2021 07:54:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/item_counter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/item_counter.php on line 13
+[15-Nov-2021 07:54:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/getPartners.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/getPartners.php on line 10
+[15-Nov-2021 07:54:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/item_counter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/item_counter.php on line 13
+[15-Nov-2021 07:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/click2dr/public_html/resources/php/DataBase.php on line 30
+[15-Nov-2021 07:54:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/click2dr/public_html/resources/php/getPromoDeals.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/getPromoDeals.php on line 9
+[20-Nov-2021 09:13:13 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:13:13 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:13:13 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:14:31 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:14:31 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:14:31 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:15:58 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:15:58 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:15:58 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:00 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:00 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:00 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:01 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:01 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:01 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:47 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:47 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:47 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:49 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:49 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:49 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:59 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:59 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:16:59 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:17:59 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:17:59 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:17:59 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:18:00 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:18:00 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:18:00 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:18:53 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:18:53 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:18:53 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:18:56 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:18:56 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:18:56 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:18:58 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:18:58 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:18:58 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:19:45 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:19:45 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:19:45 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:19:47 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:19:47 UTC] PHP Warning:  A non-numeric value encountered in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[20-Nov-2021 09:19:47 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Modulo by zero in /home/click2dr/public_html/resources/php/test_sort.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/test_sort.php on line 8
+[02-Dec-2021 15:04:57 UTC] PHP Parse error:  syntax error, unexpected 'order_number' (T_STRING), expecting ']' in /home/click2dr/public_html/resources/php/view_invoice_log.php on line 12
+[02-Dec-2021 15:05:12 UTC] PHP Parse error:  syntax error, unexpected 'order_number' (T_STRING), expecting ']' in /home/click2dr/public_html/resources/php/view_invoice_log.php on line 12
+[02-Dec-2021 15:05:21 UTC] PHP Parse error:  syntax error, unexpected 'order_number' (T_STRING), expecting ']' in /home/click2dr/public_html/resources/php/view_invoice_log.php on line 12
+[02-Dec-2021 15:06:02 UTC] PHP Parse error:  syntax error, unexpected 'order_number' (T_STRING), expecting ']' in /home/click2dr/public_html/resources/php/view_invoice_log.php on line 12
+[02-Dec-2021 15:06:08 UTC] PHP Parse error:  syntax error, unexpected 'order_number' (T_STRING), expecting ']' in /home/click2dr/public_html/resources/php/view_invoice_log.php on line 12
+[02-Dec-2021 15:06:21 UTC] PHP Parse error:  syntax error, unexpected 'order_number' (T_STRING), expecting ']' in /home/click2dr/public_html/resources/php/view_invoice_log.php on line 12
+[06-Jan-2022 23:09:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function issett() in /home/click2dr/public_html/resources/php/create_invoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/create_invoice.php on line 9
+[06-Jan-2022 23:10:53 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function issett() in /home/click2dr/public_html/resources/php/create_invoice.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/click2dr/public_html/resources/php/create_invoice.php on line 9
